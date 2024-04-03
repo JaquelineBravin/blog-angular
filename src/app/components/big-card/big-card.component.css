@@ -1,0 +1,23 @@
+.big-card {
+  margin: 0px 15px 0px 20px;
+  width: 600px;
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
+.big-card-title > h1 > a {
+  margin-top: 15px;
+  font-size: 23px;
+}
+
+.big-card-text > p {
+  margin-top: 10px;
+  color: gray;
+}
+
+.big-card-photo > img {
+  width: 100%;
+}

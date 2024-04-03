@@ -1,0 +1,23 @@
+.small-card {
+  width: 500px;
+  display: flex;
+  flex-direction: row;
+}
+
+.small-card-title {
+  font-size: 20px;
+  display: flex;
+  justify-content: center; /* alinha na horizontal */
+  align-items: center; /* alinha na vertical */
+}
+
+.small-card-photo > img {
+  width: 230px;
+  margin-right: 15px;
+}
+
+hr {
+  color: rgba(83, 83, 83, 0.445);
+  margin-top: 15px;
+  margin-bottom: 15px;
+}

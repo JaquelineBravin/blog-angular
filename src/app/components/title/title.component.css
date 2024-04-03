@@ -1,0 +1,22 @@
+.title > h1 {
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  font-family: "Rubik Lines", system-ui;
+  font-size: 125px;
+  display: flex;
+  justify-content: center;
+  background-color: black;
+}
+
+.title > h5 {
+  color: #2b2d30;
+  font-size: 15px;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 15px;
+  background-color: black;
+}
+
+.title {
+  background-color: black;
+}
