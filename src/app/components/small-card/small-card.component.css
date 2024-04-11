@@ -17,7 +17,7 @@
 }
 
 hr {
-  color: rgba(83, 83, 83, 0.445);
   margin-top: 15px;
   margin-bottom: 15px;
+  border-color: rgb(90, 90, 90);
 }

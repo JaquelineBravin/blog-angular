@@ -1,0 +1,22 @@
+<style>
+  @import url("https://fonts.googleapis.com/css2?family=Didact+Gothic&display=swap");
+</style>
+<div class="content">
+  <a [routerLink]="['']">Home </a>
+  <div class="content_cover">
+    <hr />
+
+    <img src="{{ photoCover }}" alt="" />
+  </div>
+
+  <div class="content_title">
+    <h1>{{ contentTitle }}</h1>
+    <hr />
+  </div>
+
+  <div class="content_description">
+    <p>
+      {{ description }}
+    </p>
+  </div>
+</div>

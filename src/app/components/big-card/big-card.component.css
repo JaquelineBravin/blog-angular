@@ -10,12 +10,16 @@
 
 .big-card-title > h1 > a {
   margin-top: 15px;
-  font-size: 23px;
+  font-size: 28px;
 }
 
 .big-card-text > p {
   margin-top: 10px;
-  color: gray;
+  color: rgb(128, 128, 128);
+  font-size: 18px;
+  font-family: "Didact Gothic", sans-serif;
+  font-weight: bold;
+  font-style: normal;
 }
 
 .big-card-photo > img {
