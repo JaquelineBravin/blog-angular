@@ -10,6 +10,10 @@
   min-width: 500px;
 }
 
+.content_cover > img {
+  max-width: 600px;
+}
+
 .content_title {
   margin-top: 10px;
 }
